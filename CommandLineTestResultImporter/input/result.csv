@@ -1,0 +1,4 @@
+testGetNewFirmwareHWStructData;success
+testSetRequestToSendInjection;success
+testSetRequestToSend;failure
+testSetDataTerminalReadyInjection;success
